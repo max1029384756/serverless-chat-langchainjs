@@ -39,9 +39,9 @@ export const chatDefaultOptions: ChatComponentOptions = {
   apiUrl: '',
   enablePromptSuggestions: true,
   promptSuggestions: [
-    'How to search and book rentals?',
-    'What is the refund policy?',
-    'How to contact a representative?',
+    'How to search and book villas?',
+    'How to get from the airport to you?',
+    'What time is check-in and check-out from the villas?',
   ],
   messages: [],
   strings: {
